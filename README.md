@@ -160,5 +160,3 @@ initScrollAnimate(
     font-size:       68px;
 }
 ```
-
-Replace `'yourElementId'` with the ID of the element you want to apply the dynamic CSS values to.
