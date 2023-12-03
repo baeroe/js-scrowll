@@ -1,24 +1,29 @@
 html,
-body {
-  margin: 0;
-  padding: 0;
+body
+{
+    margin:  0;
+    padding: 0;
 }
 
-.firstContainer {
-  height: 2000px;
+.firstContainer
+{
+    height: 2000px;
 }
 
-.secondContainer {
-  height: 2000px;
+.secondContainer
+{
+    height: 2000px;
 }
 
-.content {
-  position: fixed;
-  top: 0;
-  height: 100vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 68px;
+.content
+{
+    border-radius:   100%;
+    position:        fixed;
+    top:             0;
+    height:          100vh;
+    width:           100%;
+    display:         flex;
+    justify-content: center;
+    align-items:     center;
+    font-size:       68px;
 }
