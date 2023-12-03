@@ -1,10 +1,6 @@
-Certainly! Here's a sample README for your npm package:
+# # js-scrowll
 
----
-
-# # scroll-effect
-
-scroll-effect is an npm package designed to dynamically calculate CSS values for elements based on the scroll state of
+js-scrowll is a npm package designed to dynamically calculate CSS values for elements based on the scroll state of
 their parent elements. It enables smooth transitions and animations by adjusting CSS properties like opacity,
 translation, scaling, rotation, color, background, and blur as the user scrolls through the page.
 
