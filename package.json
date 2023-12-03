@@ -1,11 +1,21 @@
 {
-  "name": "animate-on-scroll",
+  "name": "scroll-effect",
   "version": "1.0.0",
-  "description": "",
-  "main": "example/index.js",
+  "description": "Dynamically calculate CSS values for elements based on the scroll state of their parent elements.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Rafael Haußmann <rafael.hingerl@gmail.com> (https://rafaelhaussmann.de)",
+  "license": "MIT",
+  "keywords": [
+    "scroll",
+    "effect",
+    "css",
+    "dynamic",
+    "animation"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/baeroe/scroll-effect.git"
+    }
 }
