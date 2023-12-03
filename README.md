@@ -1,4 +1,4 @@
-# # js-scrowll
+# js-scrowll
 
 [![NPM version](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/js-scrowll)
 [![NPM version](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/license/mit/)
