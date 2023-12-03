@@ -32,8 +32,6 @@ npm install js-scrowll
 
 ### Example
 
-![Alt Text](./example/example.gif)
-
 #### JavaScript
 
 ```javascript
