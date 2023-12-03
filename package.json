@@ -1,5 +1,5 @@
 {
-  "name": "scroll-effect",
+  "name": "js-scrowll",
   "version": "1.0.0",
   "description": "Dynamically calculate CSS values for elements based on the scroll state of their parent elements.",
   "main": "index.js",
@@ -10,12 +10,14 @@
   "keywords": [
     "scroll",
     "effect",
+    "js",
+    "scrowll",
     "css",
     "dynamic",
     "animation"
   ],
   "repository": {
       "type": "git",
-      "url": "https://github.com/baeroe/scroll-effect.git"
+      "url": "https://github.com/baeroe/js-scrowll.git"
     }
 }
