@@ -9,7 +9,7 @@ translation, scaling, rotation, color, background, and blur as the user scrolls 
 You can install ScrollCSSValues via npm:
 
 ```bash
-npm install scroll-css-values
+npm install js-scrowll
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ npm install scroll-css-values
 #### JavaScript
 
 ```javascript
-import { initScrollAnimate } from 'scroll-effect';
+import { initScrollAnimate } from 'js-scrowll';
 
 const options = [
     {
