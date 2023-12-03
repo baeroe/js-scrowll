@@ -1,5 +1,8 @@
 # # js-scrowll
 
+[![NPM version](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/js-scrowll)
+[![NPM version](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/license/mit/)
+
 js-scrowll is a npm package designed to dynamically calculate CSS values for elements based on the scroll state of
 their parent elements. It enables smooth transitions and animations by adjusting CSS properties like opacity,
 translation, scaling, rotation, color, background, and blur as the user scrolls through the page.
